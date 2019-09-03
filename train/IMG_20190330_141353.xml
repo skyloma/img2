@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20190330_141353.jpg</filename>
+	<path>C:\models\research\object_detection\images\train\IMG_20190330_141353.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>460</width>
+		<height>816</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ht a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>278</ymin>
+			<xmax>353</xmax>
+			<ymax>603</ymax>
+		</bndbox>
+	</object>
+</annotation>

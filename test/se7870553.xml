@@ -1,0 +1,26 @@
+<annotation>
+	<folder>b</folder>
+	<filename>se7870553.jpg</filename>
+	<path>F:\models\research\object_detection\images\b\se7870553.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1028</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rmb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>116</ymin>
+			<xmax>1445</xmax>
+			<ymax>872</ymax>
+		</bndbox>
+	</object>
+</annotation>

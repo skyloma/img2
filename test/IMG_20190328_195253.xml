@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train1</folder>
+	<filename>IMG_20190328_195253.jpg</filename>
+	<path>H:\tensorflow1\models\research\object_detection\images\train1\IMG_20190328_195253.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>816</width>
+		<height>460</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ht 9</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>90</ymin>
+			<xmax>545</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>

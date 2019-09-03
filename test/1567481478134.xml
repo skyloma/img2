@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>1567481478134.jpg</filename>
+	<path>F:\360data\重要数据\我的文档\Tencent Files\271341794\FileRecv\MobileFile\a(11)\test\1567481478134.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fk 6</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>135</ymin>
+			<xmax>349</xmax>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+</annotation>

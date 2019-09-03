@@ -1,0 +1,38 @@
+<annotation>
+	<folder>tr2</folder>
+	<filename>IMG_20190330_194045.jpg</filename>
+	<path>C:\models\research\object_detection\images\tr2\IMG_20190330_194045.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>460</width>
+		<height>816</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mh j</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>121</ymin>
+			<xmax>443</xmax>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hx 5</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>1</ymin>
+			<xmax>138</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tr2</folder>
+	<filename>IMG_20190330_191356.jpg</filename>
+	<path>C:\models\research\object_detection\images\tr2\IMG_20190330_191356.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>460</width>
+		<height>816</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fk 7</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>262</ymin>
+			<xmax>320</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>

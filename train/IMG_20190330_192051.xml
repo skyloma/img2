@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tr2</folder>
+	<filename>IMG_20190330_192051.jpg</filename>
+	<path>C:\models\research\object_detection\images\tr2\IMG_20190330_192051.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>460</width>
+		<height>816</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hx a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>135</ymin>
+			<xmax>265</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

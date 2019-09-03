@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train1</folder>
+	<filename>IMG_20190328_195101.jpg</filename>
+	<path>H:\tensorflow1\models\research\object_detection\images\train1\IMG_20190328_195101.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>460</width>
+		<height>816</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fk j</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>270</ymin>
+			<xmax>316</xmax>
+			<ymax>529</ymax>
+		</bndbox>
+	</object>
+</annotation>
