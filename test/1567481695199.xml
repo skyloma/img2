@@ -1,1 +1,26 @@
-<annotation><filename>1567481695199.jpg</filename><folder>test</folder><object><bndbox><xmax>457</xmax><xmin>199</xmin><ymax>475</ymax><ymin>127</ymin></bndbox><difficult>0</difficult><name>ht 10</name><pose>Unspecified</pose><truncated>0</truncated></object><path>c:\models\research\object_detection\images\test\1567481695199.jpg</path><segmented>0</segmented><size><depth>3</depth><height>480</height><width>640</width></size><source><database>Unknown</database></source></annotation>
+<annotation>
+	<folder>test</folder>
+	<filename>1567481695199.jpg</filename>
+	<path>F:\img2\test\1567481695199.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ht 10</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>132</ymin>
+			<xmax>485</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>
