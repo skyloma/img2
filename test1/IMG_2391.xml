@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test2</folder>
-	<filename>IMG_2463.JPG</filename>
-	<path>F:\img2\test2\IMG_2463.JPG</path>
+	<filename>IMG_2391.JPG</filename>
+	<path>F:\img2\test2\IMG_2391.JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>271</xmin>
-			<ymin>114</ymin>
-			<xmax>307</xmax>
-			<ymax>134</ymax>
+			<xmin>129</xmin>
+			<ymin>197</ymin>
+			<xmax>154</xmax>
+			<ymax>259</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>174</xmin>
-			<ymin>195</ymin>
-			<xmax>212</xmax>
-			<ymax>216</ymax>
+			<xmin>245</xmin>
+			<ymin>337</ymin>
+			<xmax>268</xmax>
+			<ymax>391</ymax>
 		</bndbox>
 	</object>
 </annotation>
