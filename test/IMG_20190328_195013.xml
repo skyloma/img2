@@ -71,16 +71,5 @@
 			<ymax>816</ymax>
 		</bndbox>
 	</object>
-	<object>
-		<name>mh 2</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>94</xmin>
-			<ymin>1</ymin>
-			<xmax>233</xmax>
-			<ymax>111</ymax>
-		</bndbox>
-	</object>
+	 
 </annotation>
